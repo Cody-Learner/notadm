@@ -8,6 +8,4 @@ This example uses archey3 and adds some info below it.								<br>
 														<br>
 see: https://www.reddit.com/r/archlinux/comments/dkqpd6/overwriting_etcissue_during_boot_with_script/		<br>
 														<br>
-Will do a bit more testing before adding the scripts.							<br>										<br>
-														<br>
 ![notadm](https://user-images.githubusercontent.com/36802396/67612285-34682780-f756-11e9-9b12-75b8f92018e4.png)
