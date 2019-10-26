@@ -1,5 +1,5 @@
 # notadm<br>
-													<br>
+
 (coming soon) I want to do a bit more testing before adding the scripts.				<br>
 													<br>
 Notadm (not a dosplay manager) is a few scripts that overwrite /etc/issue of agetty,			<br>
