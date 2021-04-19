@@ -17,8 +17,8 @@ The OpenSuse example was created with static edits to /etc/issue.						<br>
 
 NEWS/UPDATE INFO:												<br>
 
-UPDATE 2021-04-18:												<br>
 
+UPDATE 2021-04-18:												<br>
 Used this for a while now. Has proven relable with the test of time on my system.				<br>
 Added the scripts I've been using to the repo.									<br>
 Added the OpenSuse example as a statically edited /etc/issue.							<br>
