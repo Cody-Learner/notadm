@@ -1,6 +1,5 @@
 # notadm<br>
-
-2019-10-25: (coming soon) I want to do a bit more testing before adding the scripts.				<br>
+2019-10-25													<br>
 														<br>
 Notadm (not a display manager) are a few scripts that overwrite agetty's /etc/issue during system start.	<br>
 Allows you to add whatever you'd want above your tty login prompt. 						<br>
