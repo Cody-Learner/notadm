@@ -5,7 +5,7 @@ Before=getty.target
 [Service]
 Type=oneshot
 RemainAfterExit=true
-ExecStart=/home/jeff/bin/arch3y
+ExecStart=/usr/local/bin/arch3y
 
 [Install]
 WantedBy=multi-user.target 
